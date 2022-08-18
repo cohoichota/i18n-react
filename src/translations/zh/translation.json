@@ -1,0 +1,7 @@
+{
+  "welcome": "欢迎",
+  "date_format_one": "{{date, YYYY-MM-DD}}",
+  "keyWithCount": "是我们购买 {{count}} 台笔记本电脑的日期",
+  "number_format": "商店里有{{number, ','}}本书",
+  "keyWithCount_plural": "是我们购买 {{count}} 台笔记本电脑的日期"
+}

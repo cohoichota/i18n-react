@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome",
+  "date_format_one": "{{date, YYYY-MM-DD}}",
+  "keyWithCount": "is the date where we bought {{count}} Laptops",
+  "date_format_two": "{{date, DD-MM-YYYY}}",
+  "number_format": "There are {{number, ','}} countries in the world."
+}

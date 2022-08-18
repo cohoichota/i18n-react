@@ -1,0 +1,6 @@
+{
+  "welcome": "bienvenida",
+  "date_format_one": "{{date, YYYY-MM-DD}}",
+  "keyWithCount": "es la fecha en la que compramos {{count}} computadoras portátiles",
+  "number_format": "Hay {{number, ','}} países en el mundo."
+}

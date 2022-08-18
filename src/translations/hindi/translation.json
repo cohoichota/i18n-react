@@ -1,0 +1,6 @@
+{
+  "welcome": "स्वागत हे",
+  "date_format_one": "{{-date, YYYY/MM/DD}}",
+  "keyWithCount": "वह तारीख है जब हमने {{count}} लैपटॉप खरीदे ",
+  "number_format": "दुनिया में {{number, ','}} देश हैं।"
+}

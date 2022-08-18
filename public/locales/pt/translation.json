@@ -1,0 +1,7 @@
+{
+  "title": "Bem-vindo a um APP internacionalizado",
+  "description": {
+    "part1": "Para começar, edite <1>src/App.js</1> e salve para recarregar.",
+    "part2": "Alterne o idioma entre inglês e português usando os botões acima."
+  }
+}
